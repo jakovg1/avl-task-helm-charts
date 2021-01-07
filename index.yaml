@@ -1,1 +1,14 @@
-a
+apiVersion: v1
+entries:
+  avl-task:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-08T00:14:28.3416667+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 2ccab5bffb3a248bce8efd1c55ba46b77f1281126f1fe5838db9980c0424fd26
+    name: avl-task
+    type: application
+    urls:
+    - https://jakovg1.github.io/avl-task-helm-charts/avl-task-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-01-08T00:14:28.3326689+01:00"
